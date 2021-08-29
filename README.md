@@ -9,8 +9,8 @@ Folgende Schritte sind notwendig um die Applikation zu erstellen und zu starten:
 ```shell script
 ./mvnw compile quarkus:dev
 ```
-5. Öffnen Sie Ihren Browser unter [[http://localhost:8080/hello/]]
-6. Navigieren Sie zu [[http://localhost:8080/hello/greeting/{name}]], wobei Sie bei {name} Ihren eigenen Namen einsetzen
+5. Öffnen Sie Ihren Browser unter http://localhost:8080/hello/
+6. Navigieren Sie zu http://localhost:8080/hello/greeting/{name}, wobei Sie statt `{name}` Ihren eigenen Namen einsetzen.
 
 ## Quelle
 * https://quarkus.io/guides/getting-started
